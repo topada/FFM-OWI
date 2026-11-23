@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frankfurt OWi Anzeige"
+  short_description: "Assess traffic photos and fill Frankfurt's OWi form"
+  default_prompt: "Use $frankfurt-owi-anzeige to extract times and location from these photos, assess the likely offence, and fill the Frankfurt report for my review."

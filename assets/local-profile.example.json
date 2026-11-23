@@ -1,0 +1,18 @@
+{
+  "anrede": "",
+  "name": "",
+  "vorname": "",
+  "postleitzahl": "",
+  "ort": "",
+  "strasse": "",
+  "hausnummer": "",
+  "adresszusatz": "",
+  "akademischer_grad": "",
+  "namenszusatz": "",
+  "email": "",
+  "telefon": "",
+  "reporting_preferences": {
+    "assume_continuous_presence": false,
+    "obstruction_text": ""
+  }
+}
